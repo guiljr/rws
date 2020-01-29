@@ -1,0 +1,8 @@
+C:\Core\CoreWebService\Engine\Data\Base.Data\bin\Debug\netstandard2.1\Base.Data.deps.json
+C:\Core\CoreWebService\Engine\Data\Base.Data\bin\Debug\netstandard2.1\Base.Data.dll
+C:\Core\CoreWebService\Engine\Data\Base.Data\bin\Debug\netstandard2.1\Base.Data.pdb
+C:\Core\CoreWebService\Engine\Data\Base.Data\obj\Debug\netstandard2.1\Base.Data.csprojAssemblyReference.cache
+C:\Core\CoreWebService\Engine\Data\Base.Data\obj\Debug\netstandard2.1\Base.Data.AssemblyInfoInputs.cache
+C:\Core\CoreWebService\Engine\Data\Base.Data\obj\Debug\netstandard2.1\Base.Data.AssemblyInfo.cs
+C:\Core\CoreWebService\Engine\Data\Base.Data\obj\Debug\netstandard2.1\Base.Data.dll
+C:\Core\CoreWebService\Engine\Data\Base.Data\obj\Debug\netstandard2.1\Base.Data.pdb

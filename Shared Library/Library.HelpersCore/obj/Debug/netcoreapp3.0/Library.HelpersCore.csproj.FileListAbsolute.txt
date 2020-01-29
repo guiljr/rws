@@ -1,0 +1,8 @@
+C:\Core\Shared Library\Library.HelpersCore\bin\Debug\netcoreapp3.0\Library.HelpersCore.deps.json
+C:\Core\Shared Library\Library.HelpersCore\bin\Debug\netcoreapp3.0\Library.HelpersCore.dll
+C:\Core\Shared Library\Library.HelpersCore\obj\Debug\netcoreapp3.0\Library.HelpersCore.csprojAssemblyReference.cache
+C:\Core\Shared Library\Library.HelpersCore\obj\Debug\netcoreapp3.0\Library.HelpersCore.AssemblyInfoInputs.cache
+C:\Core\Shared Library\Library.HelpersCore\obj\Debug\netcoreapp3.0\Library.HelpersCore.AssemblyInfo.cs
+C:\Core\Shared Library\Library.HelpersCore\bin\Debug\netcoreapp3.0\Library.HelpersCore.pdb
+C:\Core\Shared Library\Library.HelpersCore\obj\Debug\netcoreapp3.0\Library.HelpersCore.dll
+C:\Core\Shared Library\Library.HelpersCore\obj\Debug\netcoreapp3.0\Library.HelpersCore.pdb

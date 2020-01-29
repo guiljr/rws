@@ -1,0 +1,8 @@
+C:\core\Shared Library\Library.ExtensionsCore\bin\Release\netcoreapp3.0\Library.ExtensionsCore.deps.json
+C:\core\Shared Library\Library.ExtensionsCore\bin\Release\netcoreapp3.0\Library.ExtensionsCore.dll
+C:\core\Shared Library\Library.ExtensionsCore\bin\Release\netcoreapp3.0\Library.ExtensionsCore.pdb
+C:\core\Shared Library\Library.ExtensionsCore\obj\Release\netcoreapp3.0\Library.ExtensionsCore.csprojAssemblyReference.cache
+C:\core\Shared Library\Library.ExtensionsCore\obj\Release\netcoreapp3.0\Library.ExtensionsCore.AssemblyInfoInputs.cache
+C:\core\Shared Library\Library.ExtensionsCore\obj\Release\netcoreapp3.0\Library.ExtensionsCore.AssemblyInfo.cs
+C:\core\Shared Library\Library.ExtensionsCore\obj\Release\netcoreapp3.0\Library.ExtensionsCore.dll
+C:\core\Shared Library\Library.ExtensionsCore\obj\Release\netcoreapp3.0\Library.ExtensionsCore.pdb

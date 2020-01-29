@@ -1,0 +1,16 @@
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\bin\Debug\netstandard2.0\Base.Contracts.deps.json
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\bin\Debug\netstandard2.0\Base.Contracts.dll
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\bin\Debug\netstandard2.0\Base.Contracts.pdb
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.csprojAssemblyReference.cache
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.AssemblyInfoInputs.cache
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.AssemblyInfo.cs
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.dll
+C:\Core\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.pdb
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\bin\Debug\netstandard2.0\Base.Contracts.deps.json
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\bin\Debug\netstandard2.0\Base.Contracts.dll
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\bin\Debug\netstandard2.0\Base.Contracts.pdb
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.csprojAssemblyReference.cache
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.AssemblyInfoInputs.cache
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.AssemblyInfo.cs
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.dll
+C:\CoreI\CoreWebService\Engine\Contracts\Base.Contracts\obj\Debug\netstandard2.0\Base.Contracts.pdb

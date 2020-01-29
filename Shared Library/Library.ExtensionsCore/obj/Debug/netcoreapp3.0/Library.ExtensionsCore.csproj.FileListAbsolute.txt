@@ -1,0 +1,16 @@
+C:\Core\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.AssemblyInfoInputs.cache
+C:\Core\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.AssemblyInfo.cs
+C:\Core\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.csprojAssemblyReference.cache
+C:\Core\Shared Library\Library.ExtensionsCore\bin\Debug\netcoreapp3.0\Library.ExtensionsCore.deps.json
+C:\Core\Shared Library\Library.ExtensionsCore\bin\Debug\netcoreapp3.0\Library.ExtensionsCore.dll
+C:\Core\Shared Library\Library.ExtensionsCore\bin\Debug\netcoreapp3.0\Library.ExtensionsCore.pdb
+C:\Core\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.dll
+C:\Core\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.pdb
+C:\CoreI\Shared Library\Library.ExtensionsCore\bin\Debug\netcoreapp3.0\Library.ExtensionsCore.deps.json
+C:\CoreI\Shared Library\Library.ExtensionsCore\bin\Debug\netcoreapp3.0\Library.ExtensionsCore.dll
+C:\CoreI\Shared Library\Library.ExtensionsCore\bin\Debug\netcoreapp3.0\Library.ExtensionsCore.pdb
+C:\CoreI\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.csprojAssemblyReference.cache
+C:\CoreI\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.AssemblyInfoInputs.cache
+C:\CoreI\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.AssemblyInfo.cs
+C:\CoreI\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.dll
+C:\CoreI\Shared Library\Library.ExtensionsCore\obj\Debug\netcoreapp3.0\Library.ExtensionsCore.pdb

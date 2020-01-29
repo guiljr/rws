@@ -1,0 +1,3 @@
+C:\Core\Shared Engine\Http\Auth.Http\obj\Debug\netcoreapp3.0\Http.Auth.csprojAssemblyReference.cache
+C:\Core\Shared Engine\Http\Auth.Http\obj\Debug\netcoreapp3.0\Http.Auth.AssemblyInfoInputs.cache
+C:\Core\Shared Engine\Http\Auth.Http\obj\Debug\netcoreapp3.0\Http.Auth.AssemblyInfo.cs

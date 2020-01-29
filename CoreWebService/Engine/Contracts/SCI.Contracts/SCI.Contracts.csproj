@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+     
+  </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\..\..\Shared Engine\Model\Base.Model\Base.Model.csproj" />
+        <ProjectReference Include="..\..\..\..\Shared Engine\Model\SCI.Model\SCI.Model.csproj" />
+        <ProjectReference Include="..\..\..\Engine\Contracts\Base.Contracts\Base.Contracts.csproj" />
+        <ProjectReference Include="..\..\..\Engine\Data\Base.Data\Base.Data.csproj" />
+     
+  </ItemGroup>
+
+</Project>

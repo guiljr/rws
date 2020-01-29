@@ -1,0 +1,5 @@
+C:\Core\Shared Library\Library.Extensions\bin\Debug\Library.Extensions.dll
+C:\Core\Shared Library\Library.Extensions\bin\Debug\Library.Extensions.pdb
+C:\Core\Shared Library\Library.Extensions\obj\Debug\Library.Extensions.csprojAssemblyReference.cache
+C:\Core\Shared Library\Library.Extensions\obj\Debug\Library.Extensions.dll
+C:\Core\Shared Library\Library.Extensions\obj\Debug\Library.Extensions.pdb

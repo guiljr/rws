@@ -1,0 +1,16 @@
+C:\Core\Shared Engine\Model\SCI.Model\bin\Debug\netstandard2.0\SCI.Model.deps.json
+C:\Core\Shared Engine\Model\SCI.Model\bin\Debug\netstandard2.0\SCI.Model.dll
+C:\Core\Shared Engine\Model\SCI.Model\bin\Debug\netstandard2.0\SCI.Model.pdb
+C:\Core\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.csprojAssemblyReference.cache
+C:\Core\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.AssemblyInfoInputs.cache
+C:\Core\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.AssemblyInfo.cs
+C:\Core\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.dll
+C:\Core\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.pdb
+C:\CoreI\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.AssemblyInfoInputs.cache
+C:\CoreI\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.AssemblyInfo.cs
+C:\CoreI\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.dll
+C:\CoreI\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.pdb
+C:\CoreI\Shared Engine\Model\SCI.Model\bin\Debug\netstandard2.0\SCI.Model.deps.json
+C:\CoreI\Shared Engine\Model\SCI.Model\bin\Debug\netstandard2.0\SCI.Model.dll
+C:\CoreI\Shared Engine\Model\SCI.Model\bin\Debug\netstandard2.0\SCI.Model.pdb
+C:\CoreI\Shared Engine\Model\SCI.Model\obj\Debug\netstandard2.0\SCI.Model.csprojAssemblyReference.cache
